@@ -1,1 +1,1 @@
-print("Hello, World"*10)
+def vivaMechMat(): print("Viva Mech-mat faculty!!!")
